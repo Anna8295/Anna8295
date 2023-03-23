@@ -7,6 +7,7 @@ Web Developer
 I'm a web development student interested in web technologies. My goal is to become a web developer and build user-friendly web applications. Currently, I'm looking for opportunities to apply my skills and gain real-world experience.  
 
 * 🌍  I'm based in Switzerland 
+* ✉️  You can contact me at [varadyovaannamaria@gmail.com](mailto:varadyovaannamaria@gmail.com)
 * 🧠  I'm learning React and React Native
 * 🤝  I'm ready to collaborate and become better at writing codes
 
